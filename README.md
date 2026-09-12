@@ -34,3 +34,4 @@
 | 26.09.11 | 프로그래머스 | Level_0   | [숨어있는숫자의덧셈_1](./src/Programmers/Level_0/Solution_숨어있는숫자의덧셈_1.java) | 문자열   | Success | Java |
 | 26.09.11 | 프로그래머스 | Level_0   | [배열원소의길이](./src/Programmers/Level_0/Solution_배열원소의길이.java)             | 문자열   | Success | Java |
 | 26.09.11 | 프로그래머스 | Level_2   | [할인행사](./src/Programmers/Level_2/Solution_할인행사.java)                         | 해시       | Success | Java |
+| 26.09.12 | 프로그래머스 | Level_0   | [삼각형의완성조건_1](./src/Programmers/Level_0/Solution_삼각형의완성조건_1.java)         | 배열     | Success | Java |
