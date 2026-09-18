@@ -39,4 +39,5 @@
 | 26.09.14 | 프로그래머스 | Level_0   | [약수구하기](./src/Programmers/Level_0/Solution_약수구하기.java)                     | 수학     | Success | Java |
 | 26.09.14 | 프로그래머스 | Level_0   | [편지](./src/Programmers/Level_0/Solution_편지.java)                                 | 문자     | Success | Java |
 | 26.09.14 | 프로그래머스 | Level_0   | [가장큰수찾기](./src/Programmers/Level_0/Solution_가장큰수찾기.java)                 | 문자열   | Success | Java |
-| 26.09.17 | 프로그래머스 | Level_2   | [더맵게](./src/Programmers/Level_2/Solution_더맵게.java)                         | 힙         | Success | Java |
+| 26.09.17 | 프로그래머스 | Level_2   | [더맵게](./src/Programmers/Level_2/Solution_더맵게.java)                             | 힙       | Success | Java |
+| 26.09.18 | 프로그래머스 | Level_2   | [예상대진표](./src/Programmers/Level_2/Solution_예상대진표.java)                         | 트리       | Success | Java |
