@@ -47,3 +47,4 @@
 | 26.09.29 | 프로그래머스 | Level_0   | [문자열안에문자열](./src/Programmers/Level_0/Solution_문자열안에문자열.java)         | 문자열   | Success | Java |
 | 26.09.29 | 프로그래머스 | Level_2   | [타겟넘버](./src/Programmers/Level_2/Solution_타겟넘버.java)                         | DFS      | Success | Java |
 | 26.09.30 | 프로그래머스 | Level_2   | [네트워크](./src/Programmers/Level_2/Solution_네트워크.java)                         | DFS      | Success | Java |
+| 26.10.02 | 프로그래머스 | Level_2   | [미로탈출](./src/Programmers/Level_2/Solution_미로탈출.java)                           | DFS      | Success | Java |
