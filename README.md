@@ -48,4 +48,5 @@
 | 26.09.29 | 프로그래머스 | Level_2   | [타겟넘버](./src/Programmers/Level_2/Solution_타겟넘버.java)                         | DFS      | Success | Java |
 | 26.09.30 | 프로그래머스 | Level_2   | [네트워크](./src/Programmers/Level_2/Solution_네트워크.java)                         | DFS      | Success | Java |
 | 26.10.02 | 프로그래머스 | Level_2   | [미로탈출](./src/Programmers/Level_2/Solution_미로탈.java)                           | DFS      | Success | Java |
-| 26.10.02 | 프로그래머스 | Level_2   | [영어끝말잇기](./src/Programmers/Level_2/Solution_영어끝말잇기.java)                     | 문자열     | Success | Java |
+| 26.10.02 | 프로그래머스 | Level_2   | [영어끝말잇기](./src/Programmers/Level_2/Solution_영어끝말잇기.java)                 | 문자     | Success | Java |
+| 26.10.07 | 프로그래머스 | Level_2   | [피로도](./src/Programmers/Level_2/Solution_피로도.java)                       | 백트래킹   | Success | Java |
